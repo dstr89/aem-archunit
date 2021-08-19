@@ -1,0 +1,9 @@
+{
+  "jcr:primaryType": "cq:Page",
+  "jcr:content": {
+    "jcr:primaryType": "cq:PageContent",
+    "jcr:title": "Test Page",
+    "cq:template": "/conf/demo-site/settings/wcm/templates/page-content",
+    "sling:resourceType": "demo-site/components/page"
+  }
+}
