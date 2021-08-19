@@ -2,8 +2,9 @@
 
 This is a simple project demonstrating how to apply ArchUnit rules to AEM projects
 
-ArchUnit is a Java library for checking the architecture of your Java code using Junit. For more info see: https://www.archunit.org/
-It can check dependencies between packages and classes, layers and slices, check for cyclic dependencies and more.
+* ArchUnit is a Java library for checking the architecture of your Java code using Junit
+* It can check dependencies between packages and classes, layers and slices, check for cyclic dependencies and more.
+* For more info see: https://www.archunit.org/
 
 Check out example AEM arhictecture tests here: https://github.com/dstr89/aem-archunit/blob/main/core/src/test/java/io/ecx/demo/core/architecture/ArchitectureRulesTest.java
 
