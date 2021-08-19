@@ -1,6 +1,6 @@
-# Sample AEM project template
+# Sample AEM project using ArchUnit tests
 
-This is a simple project demonstrating how to apply ArchUnit rules to AEM projects
+This is a simple project demonstrating how to apply ArchUnit tests/rules to AEM projects
 
 * ArchUnit is a Java library for checking the architecture of your Java code using Junit
 * It can check dependencies between packages and classes, layers and slices, check for cyclic dependencies and more.
